@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="testinglistchoice" table="x_snc_test123_shia_test1233432" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>testinglistchoice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>choice 3</label>
+            <language>en</language>
+            <name>x_snc_test123_shia_test1233432</name>
+            <sequence/>
+            <sys_created_by>shailja.panthri@snc</sys_created_by>
+            <sys_created_on>2019-12-24 02:40:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66b9fa93db358410ae9ec6fc3496195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+            <sys_updated_on>2019-12-24 02:40:11</sys_updated_on>
+            <value>choice 3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>testinglistchoice</element>
+            <name>x_snc_test123_shia_test1233432</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>shailja.panthri@snc</sys_created_by>
+            <sys_created_on>2019-12-24 02:40:11</sys_created_on>
+            <sys_id>24c9fa93db358410ae9ec6fc34961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>testinglistchoice</sys_name>
+            <sys_package display_value="test123_shialja" source="x_snc_test123_shia">63c7769bdbf18410ae9ec6fc34961966</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test123_shialja">63c7769bdbf18410ae9ec6fc34961966</sys_scope>
+            <sys_update_name>sys_choice_x_snc_test123_shia_test1233432_testinglistchoice</sys_update_name>
+            <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+            <sys_updated_on>2019-12-24 02:40:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="test1233432" max_length="40" name="x_snc_test123_shia_test1233432" type="collection">
+        <element choice="1" label="testingchoice" max_length="40" name="testingchoice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="choice 1" value="choice 1"/>
+            </choice>
+        </element>
+        <element choice="3" label="Testinglistchoice" max_length="4000" name="testinglistchoice" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="choice 3" value="choice 3"/>
+            </choice>
+        </element>
+        <element label="testing list" max_length="4000" name="testing_list" type="glide_list"/>
+    </element>
+</database>

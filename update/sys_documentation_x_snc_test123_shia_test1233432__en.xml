@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="test1233432" language="en" table="x_snc_test123_shia_test1233432">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>test1233432</label>
+            <language>en</language>
+            <name>x_snc_test123_shia_test1233432</name>
+            <plural>test1233432s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>shailja.panthri@snc</sys_created_by>
+            <sys_created_on>2019-12-24 02:32:07</sys_created_on>
+            <sys_id>aee7b613db358410ae9ec6fc34961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>test1233432</sys_name>
+            <sys_package display_value="test123_shialja" source="x_snc_test123_shia">63c7769bdbf18410ae9ec6fc34961966</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test123_shialja">63c7769bdbf18410ae9ec6fc34961966</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_test123_shia_test1233432__en</sys_update_name>
+            <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+            <sys_updated_on>2019-12-24 02:32:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
